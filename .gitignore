@@ -3,3 +3,5 @@
 *.a
 h3
 outputs/
+._*
+project-docs/._*
